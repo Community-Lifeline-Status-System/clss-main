@@ -111,16 +111,17 @@ organizational use only).</p></li>
 
     - Navigate to the Teams Developer Portal to manage the app.
 
-<img src="./media/image1.png" style="width:6.1364in;height:3.14531in" />
+> <img src="./media/image1.png" style="width:6.1364in;height:3.14531in" />
 
 - Preview the app in Teams before organizational publishing.
 
-<img src="./media/image2.png" style="width:4.8085in;height:3.04299in" />
+> <img src="./media/image2.png" style="width:4.8085in;height:3.04299in" />
 
 2.  **Publish to Organization**:
 
     - Publish the app within your organization.
-      <img src="./media/image3.png" style="width:5.729in;height:3.35852in"
+
+> <img src="./media/image3.png" style="width:5.729in;height:3.35852in"
       alt="A screenshot of a computer Description automatically generated" />
 
     - Ensure compliance with Teams security guidelines and app metadata.
@@ -140,17 +141,18 @@ organizational use only).</p></li>
 
 > <img src="./media/image4.png"
 > style="width:5.35046in;height:3.60429in" />
->
+
 > <img src="./media/image5.png"
 > style="width:5.31944in;height:4.30391in" />
 
-**App installed in tab:**<img src="./media/image6.png"
-style="width:6.49979in;height:3.32492in" />**  **
+**App installed in tab:**
+> <img src="./media/image6.png"
+> style="width:6.49979in;height:3.32492in" />**  **
 
 **App installed on teams rail:**
 
-<img src="./media/image7.png"
-style="width:4.18733in;height:4.84722in" />
+> <img src="./media/image7.png"
+> style="width:4.18733in;height:4.84722in" />
 
 **Teams Store Considerations**
 
@@ -216,24 +218,22 @@ Before beginning, ensure the following are in place:
 
 2.  Clone or create a new Teams Toolkit project template:
 
-    1.  Choose the option to create a tab-based app.  
-        <img src="./media/image8.png"
-        style="width:4.36458in;height:2.40368in" />
+    1.  Choose the option to create a tab-based app.
+     
+        > <img src="./media/image8.png"
+        > style="width:4.36458in;height:2.40368in" />
 
     2.  Select ‘Basic Tab’ for the capability, and Javascript for the
         selected Language (it is possible to publish other capabilities,
         but they are not covered in this guide).
-
     3.  Specify the folder location where you want the local project to
         be created, and then provide the name for the new application
         (e.g., ‘CLSS-App’).
-
     4.  Configure the app to use your organization’s branding.
 
 #### 2. Embed CLSS as an iFrame
 
 1.  Open the manifest.json file in your Teams Toolkit project.
-
 2.  Update the configurableTabs section, replacing with the URL where
     you published CLSS.
 
@@ -268,10 +268,8 @@ Before beginning, ensure the following are in place:
     1.  Launch the app in Teams Toolkit’s development environment. To do
         this, go to the *Development* section and click *Preview Your
         Teams App*.
-
     2.  Validate that CLSS loads correctly in an iframe without
         X-Frame-Options errors.
-
     3.  Ensure user authentication works seamlessly.
 
 #### 5. Deploy and Publish the App
@@ -280,39 +278,35 @@ Before beginning, ensure the following are in place:
 
     1.  Select the *Deploy* option under the Lifecycle section of Teams
         Toolkit.
-
     2.  Deploy the app using Teams Toolkit’s deployment tools.
 
 2.  **Register in Teams Developer Portal**:
 
     1.  Navigate to the [Teams Developer
         Portal](https://dev.teams.microsoft.com/).
-
     2.  Select the app that you deployed in the previous step and select
         *‘Publish to your Org.*  
-        <img src="./media/image9.png"
-        style="width:4.08236in;height:3.09875in" />*  *
-
+        > <img src="./media/image9.png"
+        > style="width:4.08236in;height:3.09875in" />*  *
     3.  Go to the [Teams Admin
         Console](https://admin.teams.microsoft.com/) (if you don’t have
         access, this step will have to be performed by your Team’s
         administrator). Search for the app that you published in the
         previous step, and select it.  
-        <img src="./media/image10.png"
-        style="width:4.14355in;height:2.98005in" />
-
+        > <img src="./media/image10.png"
+        > style="width:4.14355in;height:2.98005in" />
     4.  On the main App page – select Publish  
-        <img src="./media/image11.png"
-        style="width:4.07173in;height:1.74819in" />
+        > <img src="./media/image11.png"
+        > style="width:4.07173in;height:1.74819in" />
 
 3.  **Add App to Teams**:
 
-    1.  Once approved, users can add the app from the side-rail or
+  - Once approved, users can add the app from the side-rail or
         channel tab by searching for "CLSS."
 
 > <img src="./media/image12.png"
 > style="width:2.80676in;height:3.45833in" />
 
-<img src="./media/image13.png"
-style="width:4.8125in;height:3.50911in" />
+> <img src="./media/image13.png"
+> style="width:4.8125in;height:3.50911in" />
 
