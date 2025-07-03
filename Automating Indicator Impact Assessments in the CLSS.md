@@ -29,7 +29,6 @@ events. 
 
 Establish a new process to enable ‘wiring’ specific attributes from a
 linked dataset to indicator assessment. 
-
  
 
 ***Proposed “Wiring” Process: Attribute-to-Indicator Automation*** 
@@ -41,19 +40,13 @@ linked dataset to indicator assessment. 
 2.  **Attribute Selection Interface** 
 
 - UI displays all available attributes (columns) in the dataset. 
-
-<!-- -->
-
 - Each attribute includes metadata (data type: categorical, numeric,
   boolean, etc.) to guide threshold definition. 
 
 3.  **Attribute Wiring & Threshold Configuration** 
 
 For each selected attribute, the user can configure logic rules that
-translate data conditions into impact levels
-(Minimal/Moderate/Significant). 
-
- 
+translate data conditions into impact levels (Minimal/Moderate/Significant). 
 
 
 ## Use Case A: Air Quality Index 
@@ -69,7 +62,6 @@ Component, Public Health Surveillance Subcomponent)  
 | **Subcomponent ** | Health Surveillance  |
 
    
-   
 **Dataset**: Air Quality Index (AQI) readings by jurisdiction*. ([Air
 Quality \| US EPA](https://www.epa.gov/air-quality)) * 
 
@@ -78,13 +70,7 @@ Quality \| US EPA](https://www.epa.gov/air-quality)) * 
 **Threshold Wiring Interface:** 
 
 - User selects attribute **AQI**. 
-
-<!-- -->
-
 - System auto-detects it as an integer. 
-
-<!-- -->
-
 - User defines threshold ranges using a slider or input fields. 
 
 **Example Logic Configuration:** 
@@ -100,9 +86,6 @@ Quality \| US EPA](https://www.epa.gov/air-quality)) * 
 - Additional option: Allow user to select field aggregation logic (e.g.,
   *Maximum AQI*, *Average AQI*, or *Percentage of records above a
   threshold*). 
-
-<!-- -->
-
 - Optional: Let user preview how historical values would have triggered
   impacts.   
 
@@ -128,17 +111,11 @@ Service).* 
 **Attributes:** 
 
 - Current Population 
-
-<!-- -->
-
 - Max Capacity 
 
 **Wiring Logic Setup:** 
 
 - User creates a derived condition: Current Population \>= Max Capacity 
-
-<!-- -->
-
 - System allows the user to count how many records meet this condition. 
 
 **Example Threshold Rule:** 
@@ -153,9 +130,6 @@ Service).* 
 
 - Additional option: Specify filter conditions (e.g., only include
   shelters in a certain county). 
-
-<!-- -->
-
 - Optional override: Allow user to manually downgrade severity
   post-evaluation with justification (e.g., contextual judgment).   
      
@@ -165,19 +139,10 @@ Service).* 
 **Other thoughts** 
 
 - Show real-time impact preview based on current dataset. 
-
-<!-- -->
-
 - Allow user to simulate dataset updates and view resulting indicator
   changes. 
-
-<!-- -->
-
 - Require manual review / override when data is incomplete (out of
   normal range?). 
-
-<!-- -->
-
 - Log all auto-assessments and thresholds for traceability. 
 
  
