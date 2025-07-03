@@ -1,4 +1,4 @@
-**Concept Paper: Automating Indicator Impact Assessments in the CLSS** 
+# Concept Paper: Automating Indicator Impact Assessments in the CLSS
 
 The Community Lifelines Status System (CLSS) enables organizations to
 define and monitor key indicators for each Lifeline throughout an
