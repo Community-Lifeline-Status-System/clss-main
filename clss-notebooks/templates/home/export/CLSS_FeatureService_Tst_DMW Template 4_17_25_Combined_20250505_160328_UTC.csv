@@ -1,0 +1,21 @@
+Template Name,Template Description,Status,HazardName,OrganizationName,Lifeline,Component,Indicator,Weight
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Community Safety,Temp Indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Fire Service,Fire Indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Government Service,Gov Indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Government Service,Alternative indicator Gov Service,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Law Enforcement Security,Law Indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Law Enforcement Security,Tesat Indicator law enforcement,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Law Enforcement Security,Alnternative security indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Safety and Security,Search and Rescue,Rescue Indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,"Food, Hydration, Shelter",Agriculture,Ag Indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,"Food, Hydration, Shelter",Hydration,Water Indicator,5
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,"Food, Hydration, Shelter",Shelter,Shelter Indicator,3
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Energy,Fuel,Fuel Indicator,2
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Energy,Power Grid,Power Indicator,4
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Transportation,Aviation,Airport Indicator,1
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Transportation,Highway Roadway Motor Vehicle,Road Indicator,2
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Transportation,Maritime,Boat Indicator,3
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Transportation,Mass Transit,Subway Indicator,4
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Transportation,Railway,Train Indicator,5
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Hazardous Materials,Facilities,Building Indicator,4
+DMW Template 4_17_25,"A new template created on April 17, 2025",1,Fire Outbreak,N/A,Hazardous Materials,"HAZMAT, Pollutants, Contaminants",Hazmat Indicator,2

@@ -1,0 +1,226 @@
+lifeline_safety_status,component_911_and_dispatch_details,component_agriculture_details,component_alerts_warnings_messages_details,component_aviation_details,component_community_safety_details,component_potable_water_details,component_facilities_details,component_fatality_management_details,component_financial_services_details,component_fire_services_details,component_food_details,component_fuel_details,component_govt_services_details,component_hazmat_pollutants_contaminants_details,component_highway_roads_details,component_hydration_details,component_infrastructure_details,component_law_enforcement_details,component_maritime_details,component_mass_transit_details,component_medical_care_details,component_medical_supply_details,component_patient_movement_details,component_power_details,component_public_health_details,component_railway_details,component_responder_comms_details,component_search_and_rescue_details,component_shelter_details,component_waste_water_details,component_911_and_dispatch_details,component_agriculture_details,component_alerts_warnings_messages_details,component_aviation_details,component_community_safety_details,component_potable_water_details,component_facilities_details,component_fatality_management_details,component_financial_services_details,component_fire_services_details,component_food_details,component_fuel_details,component_govt_services_details,component_hazmat_pollutants_contaminants_details,component_highway_roads_details,component_hydration_details,component_infrastructure_details,component_law_enforcement_details,component_maritime_details,component_mass_transit_details,component_medical_care_details,component_medical_supply_details,component_patient_movement_details,component_power_details,component_public_health_details,component_railway_details,component_responder_comms_details,component_search_and_rescue_details,component_shelter_details,component_waste_water_details,component_community_safety_status,component_community_safety_included,component_fire_services_status,component_fire_services_included,component_govt_services_status,component_govt_services_included,component_law_enforcement_status,component_law_enforcement_included,component_search_and_rescue_status,component_search_and_rescue_included,component_agriculture_status,component_agriculture_included,component_food_status,component_food_included,component_hydration_status,component_hydration_included,component_shelter_status,component_shelter_included,component_fatality_management_status,component_fatality_management_included,component_medical_care_status,component_medical_care_included,component_medical_supply_status,component_medical_supply_included,component_patient_movement_status,component_patient_movement_included,component_public_health_status,component_public_health_included,component_potable_water_status,component_potable_water_included,component_waste_water_status,component_waste_water_included,component_fuel_status,component_fuel_included,component_power_status,component_power_included,component_911_and_dispatch_status,component_911_and_dispatch_included,component_alerts_warnings_messages_status,component_alerts_warnings_messages_included,component_financial_services_status,component_financial_services_included,component_infrastructure_status,component_infrastructure_included,component_responder_comms_status,component_responder_comms_included,component_aviation_status,component_aviation_included,component_highway_roads_status,component_highway_roads_included,component_maritime_status,component_maritime_included,component_mass_transit_status,component_mass_transit_included,component_railway_status,component_railway_included,component_facilities_status,component_facilities_included,component_hazmat_pollutants_contaminants_status,component_hazmat_pollutants_contaminants_included
+Red,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,"Damage to Public Safety Answering Point (PSAP) Infrastructure: Default
+
+Delays to Dispatch: Default
+
+Public Safety Answering Points: Default
+
+","Agricultural Contamination or Disease: Default
+
+Capacity for Livestock Evacuation: Default
+
+Capacity for livestock Mass Burial/De-Population: Default
+
+Food for Livestock beyond normal conditions: Default
+
+Shelter for Livestock beyond normal conditions: Default
+
+Water Source for Livestock beyond normal conditions: Default
+
+","Health of State Radio Systems: Default
+
+Integrated Public Alert and Warning System (IPAWS): Default
+
+Local Alert / Warning: Default
+
+National Warning System (NAWAS): Default
+
+","Airspace Planning/ Air traffic Control: Default
+
+","Ability to support active Curfew: Significant Impact
+
+Ability to support active Evacuation Orders: Significant Impact
+
+Ability to support active Shelter in Place orders: Significant Impact
+
+Correctional Facility function: Minimal / Not Impacted
+
+ESF 11: State EOC Status: Minimal / Not Impacted
+
+First Responder Equipment Status: Minimal / Not Impacted
+
+National Emergency Mangagement Assistance Compact System Availability: Minimal / Not Impacted
+
+Status of other Mutual Aid resources: Minimal / Not Impacted
+
+Unsafe conditions for Emergency Medical Services Response: Minimal / Not Impacted
+
+","Potable Water Distribution: Default
+
+Potable Water Intake: Default
+
+Potable Water Storage: Default
+
+Potable Water Treatment: Default
+
+","BSL 2 Lab Status: Default
+
+BSL 3 Lab status: Default
+
+HAZMAT, or Toxic Chemical incident from non-fixed facility: Default
+
+Oil incident from Non-Fixed Facility: Default
+
+","Fatality Management Services: Default
+
+","Access to Banking Services: Default
+
+Access to Cash: Default
+
+Access to Electronic Payment Processing: Default
+
+SNAP program: Default
+
+","Insufficient fire suppression resources available: Minimal / Not Impacted
+
+Multi-Agency / Multi-Jurisdiction Fire Response Needed: Minimal / Not Impacted
+
+Unsafe conditions for Fire response: Minimal / Not Impacted
+
+","Food Distribution: Default
+
+Food Distribution Programs: Default
+
+Food Supply: Default
+
+Food Transport: Default
+
+Institutional Feeding: Default
+
+","Commercial Fuel Distribution Service: Default
+
+Fuel Reserve Status: Default
+
+Fuel Storage: Default
+
+Fuel distribution for responders: Default
+
+Fuel for Generators at Critical Facilities: Default
+
+Pipeline Service: Default
+
+","Government Essential Functions are not operational: Default
+
+Inability to establish Unified Command/Incident Command and/or EOCs: Default
+
+Threat to Continuity of Government: Default
+
+","Agricultural or Environmental Impacts: Default
+
+Chemical or Nuclear Facilities: Default
+
+Oil Facilities: Default
+
+Radiological or Nuclear Incident Outside a Facility: Default
+
+","Ability to receive/ Send mutual Aid: Default
+
+Interstate System Impacted: Default
+
+Atlantic City Expressway Impact: Default
+
+","Boil Water Orders: Default
+
+Bottle Water Orders: Default
+
+Commerical Water Supply Chain: Default
+
+Temporary Hydration Missions: Default
+
+","Availability of Technicians and Service Personnel to service disrupted communications: Default
+
+Broadcast Communication: Default
+
+Data Centers & Critical Infrastructure: Default
+
+Internet: Default
+
+Satellite Communication: Default
+
+Service Provider Mutual Aid: Default
+
+Submarine Cable Landing Station: Default
+
+Wireless Communication: Default
+
+","Multi-agency / Multi-Jurisdiction law Enforcement Response: Default
+
+Unsafe conditions for Law Enforcement response: Default
+
+","Commercial/Freight Maritime Services: Default
+
+Inland Port Accessibility Status: Default
+
+Maritime Port Accessibility Status: Default
+
+Navigable Water Ways Blocked by Debris: Default
+
+","Bus: Default
+
+Ferry: Default
+
+Rail: Default
+
+","Ancillary Services [pharmacies]: Default
+
+EMS Strike Team Capacity: Default
+
+Hospital Service: Default
+
+Life or Care Services [dialysis/Long term care facilities]: Default
+
+Testing and Lab Capacity: Default
+
+","Access critical medical commodities (medical gasses, blood, linens, surgical, pharmaceuticals): Default
+
+Medical Supply Chain Inadequate: Default
+
+","Aviation Medical Assets: Default
+
+Evacuation of Medical Facility: Default
+
+Manage Patient Movement: Default
+
+","Distribution Systems: Default
+
+Generation Systems: Default
+
+Insufficient power or generators at critical facilities: Default
+
+Insufficient power to support power dependent individuals: Default
+
+Transmission Systems: Default
+
+","Public Health Services: Default
+
+Quarantine Orders active: Default
+
+","Commuter Service: Default
+
+Freight Service: Default
+
+Intercity Passenger: Default
+
+","Reliable Mission Critical Voice Communication Capabilities: Default
+
+","Insufficient Search and Rescue assets on-scene: Default
+
+Multi-Agency / Multi-Jurisdiction Search and Rescue Response Needed: Default
+
+Unsafe conditions for Search and Rescue response: Default
+
+","Access to Reunification Sites: Default
+
+Commercial Facilities [hotels]: Default
+
+Shelter capacity does not support the displaced population: Default
+
+","Wastewater Collection: Default
+
+Wastewater Discharge: Default
+
+Wastewater Storage: Default
+
+Wastewater Treatment: Default
+
+",Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes

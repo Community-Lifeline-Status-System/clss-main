@@ -1,0 +1,116 @@
+Lifeline,Component,Indicator,Weight
+Safety & Security,Community Safety,Ability to support active Curfew,1
+Safety & Security,Community Safety,Ability to support active Evacuation Orders,1
+Safety & Security,Community Safety,Ability to support active Shelter in Place orders,1
+Safety & Security,Community Safety,Correctional Facility function,1
+Safety & Security,Community Safety,ESF 11: State EOC Status,1
+Safety & Security,Community Safety,First Responder Equipment Status,1
+Safety & Security,Community Safety,National Emergency Mangagement Assistance Compact System Availability,1
+Safety & Security,Community Safety,Status of other Mutual Aid resources,1
+Safety & Security,Community Safety,Unsafe conditions for Emergency Medical Services Response,1
+Safety & Security,Fire Service,Insufficient fire suppression resources available,1
+Safety & Security,Fire Service,Multi-Agency / Multi-Jurisdiction Fire Response Needed,1
+Safety & Security,Fire Service,Unsafe conditions for Fire response,1
+Safety & Security,Government Service,Government Essential Functions are not operational,1
+Safety & Security,Government Service,Inability to establish Unified Command/Incident Command and/or EOCs,1
+Safety & Security,Government Service,Threat to Continuity of Government,1
+Safety & Security,Law Enforcement Security,Multi-agency / Multi-Jurisdiction law Enforcement Response,1
+Safety & Security,Law Enforcement Security,Unsafe conditions for Law Enforcement response,1
+Safety & Security,Search Rescue,Insufficient Search and Rescue assets on-scene,1
+Safety & Security,Search Rescue,Multi-Agency / Multi-Jurisdiction Search and Rescue Response Needed,1
+Safety & Security,Search Rescue,Unsafe conditions for Search and Rescue response,1
+"Food, Hydration, Shelter",Agriculture,Agricultural Contamination or Disease,1
+"Food, Hydration, Shelter",Agriculture,Capacity for Livestock Evacuation,1
+"Food, Hydration, Shelter",Agriculture,Capacity for livestock Mass Burial/De-Population,1
+"Food, Hydration, Shelter",Agriculture,Food for Livestock beyond normal conditions,1
+"Food, Hydration, Shelter",Agriculture,Shelter for Livestock beyond normal conditions,1
+"Food, Hydration, Shelter",Agriculture,Water Source for Livestock beyond normal conditions,1
+"Food, Hydration, Shelter",Food,Food Distribution,1
+"Food, Hydration, Shelter",Food,Food Distribution Programs,1
+"Food, Hydration, Shelter",Food,Food Supply,1
+"Food, Hydration, Shelter",Food,Food Transport,1
+"Food, Hydration, Shelter",Food,Institutional Feeding,1
+"Food, Hydration, Shelter",Hydration,Boil Water Orders,1
+"Food, Hydration, Shelter",Hydration,Bottle Water Orders,1
+"Food, Hydration, Shelter",Hydration,Commerical Water Supply Chain,1
+"Food, Hydration, Shelter",Hydration,Temporary Hydration Missions,1
+"Food, Hydration, Shelter",Shelter,Access to Reunification Sites,1
+"Food, Hydration, Shelter",Shelter,Commercial Facilities [hotels],1
+"Food, Hydration, Shelter",Shelter,Shelter capacity does not support the displaced population,1
+Health & Medical,Fatality Management,Fatality Management Services,1
+Health & Medical,Medical Care,Ancillary Services [pharmacies],1
+Health & Medical,Medical Care,EMS Strike Team Capacity,1
+Health & Medical,Medical Care,Hospital Service,1
+Health & Medical,Medical Care,Life or Care Services [dialysis/Long term care facilities],1
+Health & Medical,Medical Care,Testing and Lab Capacity,1
+Health & Medical,Medical Supply Chain,"Access critical medical commodities (medical gasses, blood, linens, surgical, pharmaceuticals)",1
+Health & Medical,Medical Supply Chain,Medical Supply Chain Inadequate,1
+Health & Medical,Patient Movement,Aviation Medical Assets,1
+Health & Medical,Patient Movement,Evacuation of Medical Facility,1
+Health & Medical,Patient Movement,Manage Patient Movement,1
+Health & Medical,Public Health,Public Health Services,1
+Health & Medical,Public Health,Quarantine Orders active,1
+Water Systems,Drinking Water Infrastructure,Potable Water Distribution,1
+Water Systems,Drinking Water Infrastructure,Potable Water Intake,1
+Water Systems,Drinking Water Infrastructure,Potable Water Storage,1
+Water Systems,Drinking Water Infrastructure,Potable Water Treatment,1
+Water Systems,Wastewater Infrastructure,Wastewater Collection,1
+Water Systems,Wastewater Infrastructure,Wastewater Discharge,1
+Water Systems,Wastewater Infrastructure,Wastewater Storage,1
+Water Systems,Wastewater Infrastructure,Wastewater Treatment,1
+Energy,Fuel,Commercial Fuel Distribution Service,1
+Energy,Fuel,Fuel Reserve Status,1
+Energy,Fuel,Fuel Storage,1
+Energy,Fuel,Fuel distribution for responders,1
+Energy,Fuel,Fuel for Generators at Critical Facilities,1
+Energy,Fuel,Pipeline Service,1
+Energy,Power Grid,Distribution Systems,1
+Energy,Power Grid,Generation Systems,1
+Energy,Power Grid,Insufficient power or generators at critical facilities,1
+Energy,Power Grid,Insufficient power to support power dependent individuals,1
+Energy,Power Grid,Transmission Systems,1
+Communications,911 Dispatch,Damage to Public Safety Answering Point (PSAP) Infrastructure,1
+Communications,911 Dispatch,Delays to Dispatch,1
+Communications,911 Dispatch,Public Safety Answering Points,1
+Communications,"Alerts, Warnings, Messages",Health of State Radio Systems,1
+Communications,"Alerts, Warnings, Messages",Integrated Public Alert and Warning System (IPAWS),1
+Communications,"Alerts, Warnings, Messages",Local Alert / Warning,1
+Communications,"Alerts, Warnings, Messages",National Warning System (NAWAS),1
+Communications,Finance,Access to Banking Services,1
+Communications,Finance,Access to Cash,1
+Communications,Finance,Access to Electronic Payment Processing,1
+Communications,Finance,SNAP program,1
+Communications,Infrastructure,Availability of Technicians and Service Personnel to service disrupted communications,1
+Communications,Infrastructure,Broadcast Communication,1
+Communications,Infrastructure,Data Centers & Critical Infrastructure,1
+Communications,Infrastructure,Internet,1
+Communications,Infrastructure,Satellite Communication,1
+Communications,Infrastructure,Service Provider Mutual Aid,1
+Communications,Infrastructure,Submarine Cable Landing Station,1
+Communications,Infrastructure,Wireless Communication,1
+Communications,Responder Communications,Reliable Mission Critical Voice Communication Capabilities,1
+Transportation,Aviation,Airspace Planning/ Air traffic Control,1
+Transportation,Aviation,Commercial Service or Commercial Airport,1
+Transportation,Aviation,FAA imposing Restricted Airspace,1
+Transportation,Highway Roadway,Ability to receive/ Send mutual Aid,1
+Transportation,Highway Roadway,Highway/Roadways are blocked by debris,1
+Transportation,Highway Roadway,Highway/Roadways are inaccessible,1
+Transportation,Highway Roadway,Interstate System Impacted,1
+Transportation,Maritime,Commercial/Freight Maritime Services,1
+Transportation,Maritime,Inland Port Accessibility Status,1
+Transportation,Maritime,Maritime Port Accessibility Status,1
+Transportation,Maritime,Navigable Water Ways Blocked by Debris,1
+Transportation,Mass Transit,Bus,1
+Transportation,Mass Transit,Ferry,1
+Transportation,Mass Transit,Rail,1
+Transportation,Railway,Commuter Service,1
+Transportation,Railway,Freight Service,1
+Transportation,Railway,Intercity Passenger,1
+Hazardous Materials,Facilities,BSL 2 Lab Status,1
+Hazardous Materials,Facilities,BSL 3 Lab status,1
+Hazardous Materials,Facilities,"HAZMAT, or Toxic Chemical incident from non-fixed facility",1
+Hazardous Materials,Facilities,Oil incident from Non-Fixed Facility,1
+Hazardous Materials,HAZMAT Pollutants Contaminants,Agricultural or Environmental Impacts,1
+Hazardous Materials,HAZMAT Pollutants Contaminants,Chemical or Nuclear Facilities,1
+Hazardous Materials,HAZMAT Pollutants Contaminants,Oil Facilities,1
+Hazardous Materials,HAZMAT Pollutants Contaminants,Radiological or Nuclear Incident Outside a Facility,1

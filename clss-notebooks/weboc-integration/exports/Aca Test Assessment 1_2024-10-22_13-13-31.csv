@@ -1,0 +1,478 @@
+lifeline_communications_status,lifeline_energy_status,lifeline_food_status,lifeline_hazmat_status,lifeline_health_status,lifeline_safety_status,lifeline_water_status,component_911_and_dispatch_details,component_agriculture_details,component_alerts_warnings_messages_details,component_aviation_details,component_community_safety_details,component_potable_water_details,component_facilities_details,component_fatality_management_details,component_financial_services_details,component_fire_services_details,component_food_details,component_fuel_details,component_govt_services_details,component_hazmat_pollutants_contaminants_details,component_highway_roads_details,component_hydration_details,component_infrastructure_details,component_law_enforcement_details,component_maritime_details,component_mass_transit_details,component_medical_care_details,component_medical_supply_details,component_patient_movement_details,component_power_details,component_public_health_details,component_railway_details,component_responder_comms_details,component_search_and_rescue_details,component_shelter_details,component_waste_water_details,component_community_safety_status,component_community_safety_included,component_fire_services_status,component_fire_services_included,component_govt_services_status,component_govt_services_included,component_law_enforcement_status,component_law_enforcement_included,component_search_and_rescue_status,component_search_and_rescue_included,component_agriculture_status,component_agriculture_included,component_food_status,component_food_included,component_hydration_status,component_hydration_included,component_shelter_status,component_shelter_included,component_fatality_management_status,component_fatality_management_included,component_medical_care_status,component_medical_care_included,component_medical_supply_status,component_medical_supply_included,component_patient_movement_status,component_patient_movement_included,component_public_health_status,component_public_health_included,component_potable_water_status,component_potable_water_included,component_waste_water_status,component_waste_water_included,component_fuel_status,component_fuel_included,component_power_status,component_power_included,component_911_and_dispatch_status,component_911_and_dispatch_included,component_alerts_warnings_messages_status,component_alerts_warnings_messages_included,component_financial_services_status,component_financial_services_included,component_infrastructure_status,component_infrastructure_included,component_responder_comms_status,component_responder_comms_included,component_aviation_status,component_aviation_included,component_highway_roads_status,component_highway_roads_included,component_maritime_status,component_maritime_included,component_mass_transit_status,component_mass_transit_included,component_railway_status,component_railway_included,component_facilities_status,component_facilities_included,component_hazmat_pollutants_contaminants_status,component_hazmat_pollutants_contaminants_included
+Red,Yellow,Red,Red,Yellow,Yellow,Red,"Component: 911 Dispatch, Indicator: Damage to Public Safety Answering Point (PSAP) Infrastructure, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Delays to Dispatch, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Public Safety Answering Points, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Health of State Radio Systems, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Integrated Public Alert and Warning System (IPAWS), Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Local Alert / Warning, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: National Warning System (NAWAS), Indicator Status: Default
+Component: Finance, Indicator: Access to Banking Services, Indicator Status: Default
+Component: Finance, Indicator: Access to Cash, Indicator Status: Default
+Component: Finance, Indicator: Access to Electronic Payment Processing, Indicator Status: Default
+Component: Finance, Indicator: SNAP program, Indicator Status: Default
+Component: Infrastructure, Indicator: Availability of Technicians and Service Personnel to service disrupted communications, Indicator Status: Default
+Component: Infrastructure, Indicator: Broadcast Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Data Centers & Critical Infrastructure, Indicator Status: Default
+Component: Infrastructure, Indicator: Internet, Indicator Status: Default
+Component: Infrastructure, Indicator: Satellite Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Service Provider Mutual Aid, Indicator Status: Default
+Component: Infrastructure, Indicator: Submarine Cable Landing Station, Indicator Status: Default
+Component: Infrastructure, Indicator: Wireless Communication, Indicator Status: Default
+Component: Responder Communications, Indicator: Reliable Mission Critical Voice Communication Capabilities, Indicator Status: Default
+","Component: Agriculture, Indicator: Agricultural Contamination or Disease, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Capacity for Livestock Evacuation, Indicator Status: Moderate Impact
+Component: Agriculture, Indicator: Capacity for livestock Mass Burial/De-Population, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Food for Livestock beyond normal conditions, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Shelter for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Agriculture, Indicator: Water Source for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Food Distribution, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Distribution Programs, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Supply, Indicator Status: Moderate Impact
+Component: Food, Indicator: Food Transport, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Institutional Feeding, Indicator Status: Minimal / No Impact
+Component: Hydration, Indicator: Boil Water Orders, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Bottle Water Orders, Indicator Status: Moderate Impact
+Component: Hydration, Indicator: Commerical Water Supply Chain, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Temporary Hydration Missions, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Access to Reunification Sites, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Commercial Facilities [hotels], Indicator Status: Significant Impact
+Component: Shelter, Indicator: Shelter capacity does not support the displaced population, Indicator Status: Minimal / No Impact
+","Component: 911 Dispatch, Indicator: Damage to Public Safety Answering Point (PSAP) Infrastructure, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Delays to Dispatch, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Public Safety Answering Points, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Health of State Radio Systems, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Integrated Public Alert and Warning System (IPAWS), Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Local Alert / Warning, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: National Warning System (NAWAS), Indicator Status: Default
+Component: Finance, Indicator: Access to Banking Services, Indicator Status: Default
+Component: Finance, Indicator: Access to Cash, Indicator Status: Default
+Component: Finance, Indicator: Access to Electronic Payment Processing, Indicator Status: Default
+Component: Finance, Indicator: SNAP program, Indicator Status: Default
+Component: Infrastructure, Indicator: Availability of Technicians and Service Personnel to service disrupted communications, Indicator Status: Default
+Component: Infrastructure, Indicator: Broadcast Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Data Centers & Critical Infrastructure, Indicator Status: Default
+Component: Infrastructure, Indicator: Internet, Indicator Status: Default
+Component: Infrastructure, Indicator: Satellite Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Service Provider Mutual Aid, Indicator Status: Default
+Component: Infrastructure, Indicator: Submarine Cable Landing Station, Indicator Status: Default
+Component: Infrastructure, Indicator: Wireless Communication, Indicator Status: Default
+Component: Responder Communications, Indicator: Reliable Mission Critical Voice Communication Capabilities, Indicator Status: Default
+","Component: Aviation, Indicator: Airspace Planning/ Air traffic Control, Indicator Status: Default
+Component: Aviation, Indicator: Commercial Service or Commercial Airport, Indicator Status: Default
+Component: Aviation, Indicator: FAA imposing Restricted Airspace, Indicator Status: Default
+Component: Highway Roadway, Indicator: Ability to receive/ Send mutual Aid, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are blocked by debris, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are inaccessible, Indicator Status: Default
+Component: Highway Roadway, Indicator: Interstate System Impacted, Indicator Status: Default
+Component: Maritime, Indicator: Commercial/Freight Maritime Services, Indicator Status: Default
+Component: Maritime, Indicator: Inland Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Maritime Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Navigable Water Ways Blocked by Debris, Indicator Status: Default
+Component: Mass Transit, Indicator: Bus, Indicator Status: Default
+Component: Mass Transit, Indicator: Ferry, Indicator Status: Default
+Component: Mass Transit, Indicator: Rail, Indicator Status: Default
+Component: Railway, Indicator: Commuter Service, Indicator Status: Default
+Component: Railway, Indicator: Freight Service, Indicator Status: Default
+Component: Railway, Indicator: Intercity Passenger, Indicator Status: Default
+","Component: Community Safety, Indicator: Ability to support active Curfew, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Ability to support active Evacuation Orders, Indicator Status: Moderate Impact
+Component: Community Safety, Indicator: Ability to support active Shelter in Place orders, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Correctional Facility function, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: ESF 11: State EOC Status, Indicator Status: Minimal / No Impact
+Component: Community Safety, Indicator: First Responder Equipment Status, Indicator Status: Unknown
+Component: Community Safety, Indicator: National Emergency Mangagement Assistance Compact System Availability, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Status of other Mutual Aid resources, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Unsafe conditions for Emergency Medical Services Response, Indicator Status: Unknown
+Component: Fire Service, Indicator: Insufficient fire suppression resources available, Indicator Status: Significant Impact
+Component: Fire Service, Indicator: Multi-Agency / Multi-Jurisdiction Fire Response Needed, Indicator Status: Minimal / No Impact
+Component: Fire Service, Indicator: Unsafe conditions for Fire response, Indicator Status: Moderate Impact
+Component: Government Service, Indicator: Government Essential Functions are not operational, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Inability to establish Unified Command/Incident Command and/or EOCs, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Threat to Continuity of Government, Indicator Status: Minimal / No Impact
+Component: Law Enforcement Security, Indicator: Multi-agency / Multi-Jurisdiction law Enforcement Response, Indicator Status: Moderate Impact
+Component: Law Enforcement Security, Indicator: Unsafe conditions for Law Enforcement response, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Insufficient Search and Rescue assets on-scene, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Multi-Agency / Multi-Jurisdiction Search and Rescue Response Needed, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Unsafe conditions for Search and Rescue response, Indicator Status: Moderate Impact
+","Component: Drinking Water Infrastructure, Indicator: Potable Water Distribution, Indicator Status: Significant Impact
+Component: Drinking Water Infrastructure, Indicator: Potable Water Intake, Indicator Status: Significant Impact
+Component: Drinking Water Infrastructure, Indicator: Potable Water Storage, Indicator Status: Significant Impact
+Component: Drinking Water Infrastructure, Indicator: Potable Water Treatment, Indicator Status: Significant Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Collection, Indicator Status: Moderate Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Discharge, Indicator Status: Moderate Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Storage, Indicator Status: Significant Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Treatment, Indicator Status: Significant Impact
+","Component: Facilities, Indicator: BSL 2 Lab Status, Indicator Status: Significant Impact
+Component: Facilities, Indicator: BSL 3 Lab status, Indicator Status: Significant Impact
+Component: Facilities, Indicator: HAZMAT, or Toxic Chemical incident from non-fixed facility, Indicator Status: Moderate Impact
+Component: Facilities, Indicator: Oil incident from Non-Fixed Facility, Indicator Status: Significant Impact
+Component: HAZMAT Pollutants Contaminants, Indicator: Agricultural or Environmental Impacts, Indicator Status: Default
+Component: HAZMAT Pollutants Contaminants, Indicator: Chemical or Nuclear Facilities, Indicator Status: Default
+Component: HAZMAT Pollutants Contaminants, Indicator: Oil Facilities, Indicator Status: Default
+Component: HAZMAT Pollutants Contaminants, Indicator: Radiological or Nuclear Incident Outside a Facility, Indicator Status: Default
+","Component: Fatality Management, Indicator: Fatality Management Services, Indicator Status: Significant Impact
+Component: Medical Care, Indicator: Ancillary Services [pharmacies], Indicator Status: Moderate Impact
+Component: Medical Care, Indicator: EMS Strike Team Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Hospital Service, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Life or Care Services [dialysis/Long term care facilities], Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Testing and Lab Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Supply Chain, Indicator: Access critical medical commodities (medical gasses, blood, linens, surgical, pharmaceuticals), Indicator Status: Significant Impact
+Component: Medical Supply Chain, Indicator: Medical Supply Chain Inadequate, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Aviation Medical Assets, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Evacuation of Medical Facility, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Manage Patient Movement, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Public Health Services, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Quarantine Orders active, Indicator Status: Moderate Impact
+","Component: 911 Dispatch, Indicator: Damage to Public Safety Answering Point (PSAP) Infrastructure, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Delays to Dispatch, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Public Safety Answering Points, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Health of State Radio Systems, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Integrated Public Alert and Warning System (IPAWS), Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Local Alert / Warning, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: National Warning System (NAWAS), Indicator Status: Default
+Component: Finance, Indicator: Access to Banking Services, Indicator Status: Default
+Component: Finance, Indicator: Access to Cash, Indicator Status: Default
+Component: Finance, Indicator: Access to Electronic Payment Processing, Indicator Status: Default
+Component: Finance, Indicator: SNAP program, Indicator Status: Default
+Component: Infrastructure, Indicator: Availability of Technicians and Service Personnel to service disrupted communications, Indicator Status: Default
+Component: Infrastructure, Indicator: Broadcast Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Data Centers & Critical Infrastructure, Indicator Status: Default
+Component: Infrastructure, Indicator: Internet, Indicator Status: Default
+Component: Infrastructure, Indicator: Satellite Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Service Provider Mutual Aid, Indicator Status: Default
+Component: Infrastructure, Indicator: Submarine Cable Landing Station, Indicator Status: Default
+Component: Infrastructure, Indicator: Wireless Communication, Indicator Status: Default
+Component: Responder Communications, Indicator: Reliable Mission Critical Voice Communication Capabilities, Indicator Status: Default
+","Component: Community Safety, Indicator: Ability to support active Curfew, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Ability to support active Evacuation Orders, Indicator Status: Moderate Impact
+Component: Community Safety, Indicator: Ability to support active Shelter in Place orders, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Correctional Facility function, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: ESF 11: State EOC Status, Indicator Status: Minimal / No Impact
+Component: Community Safety, Indicator: First Responder Equipment Status, Indicator Status: Unknown
+Component: Community Safety, Indicator: National Emergency Mangagement Assistance Compact System Availability, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Status of other Mutual Aid resources, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Unsafe conditions for Emergency Medical Services Response, Indicator Status: Unknown
+Component: Fire Service, Indicator: Insufficient fire suppression resources available, Indicator Status: Significant Impact
+Component: Fire Service, Indicator: Multi-Agency / Multi-Jurisdiction Fire Response Needed, Indicator Status: Minimal / No Impact
+Component: Fire Service, Indicator: Unsafe conditions for Fire response, Indicator Status: Moderate Impact
+Component: Government Service, Indicator: Government Essential Functions are not operational, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Inability to establish Unified Command/Incident Command and/or EOCs, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Threat to Continuity of Government, Indicator Status: Minimal / No Impact
+Component: Law Enforcement Security, Indicator: Multi-agency / Multi-Jurisdiction law Enforcement Response, Indicator Status: Moderate Impact
+Component: Law Enforcement Security, Indicator: Unsafe conditions for Law Enforcement response, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Insufficient Search and Rescue assets on-scene, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Multi-Agency / Multi-Jurisdiction Search and Rescue Response Needed, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Unsafe conditions for Search and Rescue response, Indicator Status: Moderate Impact
+","Component: Agriculture, Indicator: Agricultural Contamination or Disease, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Capacity for Livestock Evacuation, Indicator Status: Moderate Impact
+Component: Agriculture, Indicator: Capacity for livestock Mass Burial/De-Population, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Food for Livestock beyond normal conditions, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Shelter for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Agriculture, Indicator: Water Source for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Food Distribution, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Distribution Programs, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Supply, Indicator Status: Moderate Impact
+Component: Food, Indicator: Food Transport, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Institutional Feeding, Indicator Status: Minimal / No Impact
+Component: Hydration, Indicator: Boil Water Orders, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Bottle Water Orders, Indicator Status: Moderate Impact
+Component: Hydration, Indicator: Commerical Water Supply Chain, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Temporary Hydration Missions, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Access to Reunification Sites, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Commercial Facilities [hotels], Indicator Status: Significant Impact
+Component: Shelter, Indicator: Shelter capacity does not support the displaced population, Indicator Status: Minimal / No Impact
+","Component: Fuel, Indicator: Commercial Fuel Distribution Service, Indicator Status: Significant Impact
+Component: Fuel, Indicator: Fuel Reserve Status, Indicator Status: Moderate Impact
+Component: Fuel, Indicator: Fuel Storage, Indicator Status: Significant Impact
+Component: Fuel, Indicator: Fuel distribution for responders, Indicator Status: Minimal / No Impact
+Component: Fuel, Indicator: Fuel for Generators at Critical Facilities, Indicator Status: Minimal / No Impact
+Component: Fuel, Indicator: Pipeline Service, Indicator Status: Minimal / No Impact
+Component: Power Grid, Indicator: Distribution Systems, Indicator Status: Minimal / No Impact
+Component: Power Grid, Indicator: Generation Systems, Indicator Status: Unknown
+Component: Power Grid, Indicator: Insufficient power or generators at critical facilities, Indicator Status: Significant Impact
+Component: Power Grid, Indicator: Insufficient power to support power dependent individuals, Indicator Status: Moderate Impact
+Component: Power Grid, Indicator: Transmission Systems, Indicator Status: Significant Impact
+","Component: Community Safety, Indicator: Ability to support active Curfew, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Ability to support active Evacuation Orders, Indicator Status: Moderate Impact
+Component: Community Safety, Indicator: Ability to support active Shelter in Place orders, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Correctional Facility function, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: ESF 11: State EOC Status, Indicator Status: Minimal / No Impact
+Component: Community Safety, Indicator: First Responder Equipment Status, Indicator Status: Unknown
+Component: Community Safety, Indicator: National Emergency Mangagement Assistance Compact System Availability, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Status of other Mutual Aid resources, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Unsafe conditions for Emergency Medical Services Response, Indicator Status: Unknown
+Component: Fire Service, Indicator: Insufficient fire suppression resources available, Indicator Status: Significant Impact
+Component: Fire Service, Indicator: Multi-Agency / Multi-Jurisdiction Fire Response Needed, Indicator Status: Minimal / No Impact
+Component: Fire Service, Indicator: Unsafe conditions for Fire response, Indicator Status: Moderate Impact
+Component: Government Service, Indicator: Government Essential Functions are not operational, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Inability to establish Unified Command/Incident Command and/or EOCs, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Threat to Continuity of Government, Indicator Status: Minimal / No Impact
+Component: Law Enforcement Security, Indicator: Multi-agency / Multi-Jurisdiction law Enforcement Response, Indicator Status: Moderate Impact
+Component: Law Enforcement Security, Indicator: Unsafe conditions for Law Enforcement response, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Insufficient Search and Rescue assets on-scene, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Multi-Agency / Multi-Jurisdiction Search and Rescue Response Needed, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Unsafe conditions for Search and Rescue response, Indicator Status: Moderate Impact
+","Component: Facilities, Indicator: BSL 2 Lab Status, Indicator Status: Significant Impact
+Component: Facilities, Indicator: BSL 3 Lab status, Indicator Status: Significant Impact
+Component: Facilities, Indicator: HAZMAT, or Toxic Chemical incident from non-fixed facility, Indicator Status: Moderate Impact
+Component: Facilities, Indicator: Oil incident from Non-Fixed Facility, Indicator Status: Significant Impact
+Component: HAZMAT Pollutants Contaminants, Indicator: Agricultural or Environmental Impacts, Indicator Status: Default
+Component: HAZMAT Pollutants Contaminants, Indicator: Chemical or Nuclear Facilities, Indicator Status: Default
+Component: HAZMAT Pollutants Contaminants, Indicator: Oil Facilities, Indicator Status: Default
+Component: HAZMAT Pollutants Contaminants, Indicator: Radiological or Nuclear Incident Outside a Facility, Indicator Status: Default
+","Component: Aviation, Indicator: Airspace Planning/ Air traffic Control, Indicator Status: Default
+Component: Aviation, Indicator: Commercial Service or Commercial Airport, Indicator Status: Default
+Component: Aviation, Indicator: FAA imposing Restricted Airspace, Indicator Status: Default
+Component: Highway Roadway, Indicator: Ability to receive/ Send mutual Aid, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are blocked by debris, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are inaccessible, Indicator Status: Default
+Component: Highway Roadway, Indicator: Interstate System Impacted, Indicator Status: Default
+Component: Maritime, Indicator: Commercial/Freight Maritime Services, Indicator Status: Default
+Component: Maritime, Indicator: Inland Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Maritime Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Navigable Water Ways Blocked by Debris, Indicator Status: Default
+Component: Mass Transit, Indicator: Bus, Indicator Status: Default
+Component: Mass Transit, Indicator: Ferry, Indicator Status: Default
+Component: Mass Transit, Indicator: Rail, Indicator Status: Default
+Component: Railway, Indicator: Commuter Service, Indicator Status: Default
+Component: Railway, Indicator: Freight Service, Indicator Status: Default
+Component: Railway, Indicator: Intercity Passenger, Indicator Status: Default
+","Component: Agriculture, Indicator: Agricultural Contamination or Disease, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Capacity for Livestock Evacuation, Indicator Status: Moderate Impact
+Component: Agriculture, Indicator: Capacity for livestock Mass Burial/De-Population, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Food for Livestock beyond normal conditions, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Shelter for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Agriculture, Indicator: Water Source for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Food Distribution, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Distribution Programs, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Supply, Indicator Status: Moderate Impact
+Component: Food, Indicator: Food Transport, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Institutional Feeding, Indicator Status: Minimal / No Impact
+Component: Hydration, Indicator: Boil Water Orders, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Bottle Water Orders, Indicator Status: Moderate Impact
+Component: Hydration, Indicator: Commerical Water Supply Chain, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Temporary Hydration Missions, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Access to Reunification Sites, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Commercial Facilities [hotels], Indicator Status: Significant Impact
+Component: Shelter, Indicator: Shelter capacity does not support the displaced population, Indicator Status: Minimal / No Impact
+","Component: 911 Dispatch, Indicator: Damage to Public Safety Answering Point (PSAP) Infrastructure, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Delays to Dispatch, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Public Safety Answering Points, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Health of State Radio Systems, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Integrated Public Alert and Warning System (IPAWS), Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Local Alert / Warning, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: National Warning System (NAWAS), Indicator Status: Default
+Component: Finance, Indicator: Access to Banking Services, Indicator Status: Default
+Component: Finance, Indicator: Access to Cash, Indicator Status: Default
+Component: Finance, Indicator: Access to Electronic Payment Processing, Indicator Status: Default
+Component: Finance, Indicator: SNAP program, Indicator Status: Default
+Component: Infrastructure, Indicator: Availability of Technicians and Service Personnel to service disrupted communications, Indicator Status: Default
+Component: Infrastructure, Indicator: Broadcast Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Data Centers & Critical Infrastructure, Indicator Status: Default
+Component: Infrastructure, Indicator: Internet, Indicator Status: Default
+Component: Infrastructure, Indicator: Satellite Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Service Provider Mutual Aid, Indicator Status: Default
+Component: Infrastructure, Indicator: Submarine Cable Landing Station, Indicator Status: Default
+Component: Infrastructure, Indicator: Wireless Communication, Indicator Status: Default
+Component: Responder Communications, Indicator: Reliable Mission Critical Voice Communication Capabilities, Indicator Status: Default
+","Component: Community Safety, Indicator: Ability to support active Curfew, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Ability to support active Evacuation Orders, Indicator Status: Moderate Impact
+Component: Community Safety, Indicator: Ability to support active Shelter in Place orders, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Correctional Facility function, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: ESF 11: State EOC Status, Indicator Status: Minimal / No Impact
+Component: Community Safety, Indicator: First Responder Equipment Status, Indicator Status: Unknown
+Component: Community Safety, Indicator: National Emergency Mangagement Assistance Compact System Availability, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Status of other Mutual Aid resources, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Unsafe conditions for Emergency Medical Services Response, Indicator Status: Unknown
+Component: Fire Service, Indicator: Insufficient fire suppression resources available, Indicator Status: Significant Impact
+Component: Fire Service, Indicator: Multi-Agency / Multi-Jurisdiction Fire Response Needed, Indicator Status: Minimal / No Impact
+Component: Fire Service, Indicator: Unsafe conditions for Fire response, Indicator Status: Moderate Impact
+Component: Government Service, Indicator: Government Essential Functions are not operational, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Inability to establish Unified Command/Incident Command and/or EOCs, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Threat to Continuity of Government, Indicator Status: Minimal / No Impact
+Component: Law Enforcement Security, Indicator: Multi-agency / Multi-Jurisdiction law Enforcement Response, Indicator Status: Moderate Impact
+Component: Law Enforcement Security, Indicator: Unsafe conditions for Law Enforcement response, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Insufficient Search and Rescue assets on-scene, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Multi-Agency / Multi-Jurisdiction Search and Rescue Response Needed, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Unsafe conditions for Search and Rescue response, Indicator Status: Moderate Impact
+","Component: Aviation, Indicator: Airspace Planning/ Air traffic Control, Indicator Status: Default
+Component: Aviation, Indicator: Commercial Service or Commercial Airport, Indicator Status: Default
+Component: Aviation, Indicator: FAA imposing Restricted Airspace, Indicator Status: Default
+Component: Highway Roadway, Indicator: Ability to receive/ Send mutual Aid, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are blocked by debris, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are inaccessible, Indicator Status: Default
+Component: Highway Roadway, Indicator: Interstate System Impacted, Indicator Status: Default
+Component: Maritime, Indicator: Commercial/Freight Maritime Services, Indicator Status: Default
+Component: Maritime, Indicator: Inland Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Maritime Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Navigable Water Ways Blocked by Debris, Indicator Status: Default
+Component: Mass Transit, Indicator: Bus, Indicator Status: Default
+Component: Mass Transit, Indicator: Ferry, Indicator Status: Default
+Component: Mass Transit, Indicator: Rail, Indicator Status: Default
+Component: Railway, Indicator: Commuter Service, Indicator Status: Default
+Component: Railway, Indicator: Freight Service, Indicator Status: Default
+Component: Railway, Indicator: Intercity Passenger, Indicator Status: Default
+","Component: Aviation, Indicator: Airspace Planning/ Air traffic Control, Indicator Status: Default
+Component: Aviation, Indicator: Commercial Service or Commercial Airport, Indicator Status: Default
+Component: Aviation, Indicator: FAA imposing Restricted Airspace, Indicator Status: Default
+Component: Highway Roadway, Indicator: Ability to receive/ Send mutual Aid, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are blocked by debris, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are inaccessible, Indicator Status: Default
+Component: Highway Roadway, Indicator: Interstate System Impacted, Indicator Status: Default
+Component: Maritime, Indicator: Commercial/Freight Maritime Services, Indicator Status: Default
+Component: Maritime, Indicator: Inland Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Maritime Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Navigable Water Ways Blocked by Debris, Indicator Status: Default
+Component: Mass Transit, Indicator: Bus, Indicator Status: Default
+Component: Mass Transit, Indicator: Ferry, Indicator Status: Default
+Component: Mass Transit, Indicator: Rail, Indicator Status: Default
+Component: Railway, Indicator: Commuter Service, Indicator Status: Default
+Component: Railway, Indicator: Freight Service, Indicator Status: Default
+Component: Railway, Indicator: Intercity Passenger, Indicator Status: Default
+","Component: Fatality Management, Indicator: Fatality Management Services, Indicator Status: Significant Impact
+Component: Medical Care, Indicator: Ancillary Services [pharmacies], Indicator Status: Moderate Impact
+Component: Medical Care, Indicator: EMS Strike Team Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Hospital Service, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Life or Care Services [dialysis/Long term care facilities], Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Testing and Lab Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Supply Chain, Indicator: Access critical medical commodities (medical gasses, blood, linens, surgical, pharmaceuticals), Indicator Status: Significant Impact
+Component: Medical Supply Chain, Indicator: Medical Supply Chain Inadequate, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Aviation Medical Assets, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Evacuation of Medical Facility, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Manage Patient Movement, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Public Health Services, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Quarantine Orders active, Indicator Status: Moderate Impact
+","Component: Fatality Management, Indicator: Fatality Management Services, Indicator Status: Significant Impact
+Component: Medical Care, Indicator: Ancillary Services [pharmacies], Indicator Status: Moderate Impact
+Component: Medical Care, Indicator: EMS Strike Team Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Hospital Service, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Life or Care Services [dialysis/Long term care facilities], Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Testing and Lab Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Supply Chain, Indicator: Access critical medical commodities (medical gasses, blood, linens, surgical, pharmaceuticals), Indicator Status: Significant Impact
+Component: Medical Supply Chain, Indicator: Medical Supply Chain Inadequate, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Aviation Medical Assets, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Evacuation of Medical Facility, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Manage Patient Movement, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Public Health Services, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Quarantine Orders active, Indicator Status: Moderate Impact
+","Component: Fatality Management, Indicator: Fatality Management Services, Indicator Status: Significant Impact
+Component: Medical Care, Indicator: Ancillary Services [pharmacies], Indicator Status: Moderate Impact
+Component: Medical Care, Indicator: EMS Strike Team Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Hospital Service, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Life or Care Services [dialysis/Long term care facilities], Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Testing and Lab Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Supply Chain, Indicator: Access critical medical commodities (medical gasses, blood, linens, surgical, pharmaceuticals), Indicator Status: Significant Impact
+Component: Medical Supply Chain, Indicator: Medical Supply Chain Inadequate, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Aviation Medical Assets, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Evacuation of Medical Facility, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Manage Patient Movement, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Public Health Services, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Quarantine Orders active, Indicator Status: Moderate Impact
+","Component: Fuel, Indicator: Commercial Fuel Distribution Service, Indicator Status: Significant Impact
+Component: Fuel, Indicator: Fuel Reserve Status, Indicator Status: Moderate Impact
+Component: Fuel, Indicator: Fuel Storage, Indicator Status: Significant Impact
+Component: Fuel, Indicator: Fuel distribution for responders, Indicator Status: Minimal / No Impact
+Component: Fuel, Indicator: Fuel for Generators at Critical Facilities, Indicator Status: Minimal / No Impact
+Component: Fuel, Indicator: Pipeline Service, Indicator Status: Minimal / No Impact
+Component: Power Grid, Indicator: Distribution Systems, Indicator Status: Minimal / No Impact
+Component: Power Grid, Indicator: Generation Systems, Indicator Status: Unknown
+Component: Power Grid, Indicator: Insufficient power or generators at critical facilities, Indicator Status: Significant Impact
+Component: Power Grid, Indicator: Insufficient power to support power dependent individuals, Indicator Status: Moderate Impact
+Component: Power Grid, Indicator: Transmission Systems, Indicator Status: Significant Impact
+","Component: Fatality Management, Indicator: Fatality Management Services, Indicator Status: Significant Impact
+Component: Medical Care, Indicator: Ancillary Services [pharmacies], Indicator Status: Moderate Impact
+Component: Medical Care, Indicator: EMS Strike Team Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Hospital Service, Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Life or Care Services [dialysis/Long term care facilities], Indicator Status: Minimal / No Impact
+Component: Medical Care, Indicator: Testing and Lab Capacity, Indicator Status: Minimal / No Impact
+Component: Medical Supply Chain, Indicator: Access critical medical commodities (medical gasses, blood, linens, surgical, pharmaceuticals), Indicator Status: Significant Impact
+Component: Medical Supply Chain, Indicator: Medical Supply Chain Inadequate, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Aviation Medical Assets, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Evacuation of Medical Facility, Indicator Status: Moderate Impact
+Component: Patient Movement, Indicator: Manage Patient Movement, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Public Health Services, Indicator Status: Significant Impact
+Component: Public Health, Indicator: Quarantine Orders active, Indicator Status: Moderate Impact
+","Component: Aviation, Indicator: Airspace Planning/ Air traffic Control, Indicator Status: Default
+Component: Aviation, Indicator: Commercial Service or Commercial Airport, Indicator Status: Default
+Component: Aviation, Indicator: FAA imposing Restricted Airspace, Indicator Status: Default
+Component: Highway Roadway, Indicator: Ability to receive/ Send mutual Aid, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are blocked by debris, Indicator Status: Default
+Component: Highway Roadway, Indicator: Highway/Roadways are inaccessible, Indicator Status: Default
+Component: Highway Roadway, Indicator: Interstate System Impacted, Indicator Status: Default
+Component: Maritime, Indicator: Commercial/Freight Maritime Services, Indicator Status: Default
+Component: Maritime, Indicator: Inland Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Maritime Port Accessibility Status, Indicator Status: Default
+Component: Maritime, Indicator: Navigable Water Ways Blocked by Debris, Indicator Status: Default
+Component: Mass Transit, Indicator: Bus, Indicator Status: Default
+Component: Mass Transit, Indicator: Ferry, Indicator Status: Default
+Component: Mass Transit, Indicator: Rail, Indicator Status: Default
+Component: Railway, Indicator: Commuter Service, Indicator Status: Default
+Component: Railway, Indicator: Freight Service, Indicator Status: Default
+Component: Railway, Indicator: Intercity Passenger, Indicator Status: Default
+","Component: 911 Dispatch, Indicator: Damage to Public Safety Answering Point (PSAP) Infrastructure, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Delays to Dispatch, Indicator Status: Significant Impact
+Component: 911 Dispatch, Indicator: Public Safety Answering Points, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Health of State Radio Systems, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Integrated Public Alert and Warning System (IPAWS), Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: Local Alert / Warning, Indicator Status: Default
+Component: Alerts, Warnings, Messages, Indicator: National Warning System (NAWAS), Indicator Status: Default
+Component: Finance, Indicator: Access to Banking Services, Indicator Status: Default
+Component: Finance, Indicator: Access to Cash, Indicator Status: Default
+Component: Finance, Indicator: Access to Electronic Payment Processing, Indicator Status: Default
+Component: Finance, Indicator: SNAP program, Indicator Status: Default
+Component: Infrastructure, Indicator: Availability of Technicians and Service Personnel to service disrupted communications, Indicator Status: Default
+Component: Infrastructure, Indicator: Broadcast Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Data Centers & Critical Infrastructure, Indicator Status: Default
+Component: Infrastructure, Indicator: Internet, Indicator Status: Default
+Component: Infrastructure, Indicator: Satellite Communication, Indicator Status: Default
+Component: Infrastructure, Indicator: Service Provider Mutual Aid, Indicator Status: Default
+Component: Infrastructure, Indicator: Submarine Cable Landing Station, Indicator Status: Default
+Component: Infrastructure, Indicator: Wireless Communication, Indicator Status: Default
+Component: Responder Communications, Indicator: Reliable Mission Critical Voice Communication Capabilities, Indicator Status: Default
+","Component: Community Safety, Indicator: Ability to support active Curfew, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Ability to support active Evacuation Orders, Indicator Status: Moderate Impact
+Component: Community Safety, Indicator: Ability to support active Shelter in Place orders, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Correctional Facility function, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: ESF 11: State EOC Status, Indicator Status: Minimal / No Impact
+Component: Community Safety, Indicator: First Responder Equipment Status, Indicator Status: Unknown
+Component: Community Safety, Indicator: National Emergency Mangagement Assistance Compact System Availability, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Status of other Mutual Aid resources, Indicator Status: Significant Impact
+Component: Community Safety, Indicator: Unsafe conditions for Emergency Medical Services Response, Indicator Status: Unknown
+Component: Fire Service, Indicator: Insufficient fire suppression resources available, Indicator Status: Significant Impact
+Component: Fire Service, Indicator: Multi-Agency / Multi-Jurisdiction Fire Response Needed, Indicator Status: Minimal / No Impact
+Component: Fire Service, Indicator: Unsafe conditions for Fire response, Indicator Status: Moderate Impact
+Component: Government Service, Indicator: Government Essential Functions are not operational, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Inability to establish Unified Command/Incident Command and/or EOCs, Indicator Status: Minimal / No Impact
+Component: Government Service, Indicator: Threat to Continuity of Government, Indicator Status: Minimal / No Impact
+Component: Law Enforcement Security, Indicator: Multi-agency / Multi-Jurisdiction law Enforcement Response, Indicator Status: Moderate Impact
+Component: Law Enforcement Security, Indicator: Unsafe conditions for Law Enforcement response, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Insufficient Search and Rescue assets on-scene, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Multi-Agency / Multi-Jurisdiction Search and Rescue Response Needed, Indicator Status: Significant Impact
+Component: Search Rescue, Indicator: Unsafe conditions for Search and Rescue response, Indicator Status: Moderate Impact
+","Component: Agriculture, Indicator: Agricultural Contamination or Disease, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Capacity for Livestock Evacuation, Indicator Status: Moderate Impact
+Component: Agriculture, Indicator: Capacity for livestock Mass Burial/De-Population, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Food for Livestock beyond normal conditions, Indicator Status: Significant Impact
+Component: Agriculture, Indicator: Shelter for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Agriculture, Indicator: Water Source for Livestock beyond normal conditions, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Food Distribution, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Distribution Programs, Indicator Status: Significant Impact
+Component: Food, Indicator: Food Supply, Indicator Status: Moderate Impact
+Component: Food, Indicator: Food Transport, Indicator Status: Minimal / No Impact
+Component: Food, Indicator: Institutional Feeding, Indicator Status: Minimal / No Impact
+Component: Hydration, Indicator: Boil Water Orders, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Bottle Water Orders, Indicator Status: Moderate Impact
+Component: Hydration, Indicator: Commerical Water Supply Chain, Indicator Status: Significant Impact
+Component: Hydration, Indicator: Temporary Hydration Missions, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Access to Reunification Sites, Indicator Status: Significant Impact
+Component: Shelter, Indicator: Commercial Facilities [hotels], Indicator Status: Significant Impact
+Component: Shelter, Indicator: Shelter capacity does not support the displaced population, Indicator Status: Minimal / No Impact
+","Component: Drinking Water Infrastructure, Indicator: Potable Water Distribution, Indicator Status: Significant Impact
+Component: Drinking Water Infrastructure, Indicator: Potable Water Intake, Indicator Status: Significant Impact
+Component: Drinking Water Infrastructure, Indicator: Potable Water Storage, Indicator Status: Significant Impact
+Component: Drinking Water Infrastructure, Indicator: Potable Water Treatment, Indicator Status: Significant Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Collection, Indicator Status: Moderate Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Discharge, Indicator Status: Moderate Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Storage, Indicator Status: Significant Impact
+Component: Wastewater Infrastructure, Indicator: Wastewater Treatment, Indicator Status: Significant Impact
+",Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes,Unknown,Yes

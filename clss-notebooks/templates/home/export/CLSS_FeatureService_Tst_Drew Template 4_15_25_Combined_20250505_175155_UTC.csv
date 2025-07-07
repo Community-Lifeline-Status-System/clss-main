@@ -1,0 +1,32 @@
+Template Name,Template Description,Status,HazardName,OrganizationName,Lifeline,Component,Indicator,Weight
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Safety and Security,Community Safety,Temp Indicator,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Safety and Security,Community Safety,Ability to support active Curfew,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Safety and Security,Fire Service,Insufficient fire suppression resources available,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Safety and Security,Government Service,Inability to establish Unified Command/Incident Command and/or EOCs,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Safety and Security,Law Enforcement Security,Multi-agency / Multi-Jurisdiction law Enforcement Response,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Safety and Security,Search and Rescue,Insufficient Search and Rescue assets on-scene,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,"Food, Hydration, Shelter",Agriculture,Exposure to contamination or disease,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,"Food, Hydration, Shelter",Food,Exposure to contamination or disease,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,"Food, Hydration, Shelter",Hydration,Drinking water sources,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,"Food, Hydration, Shelter",Shelter,Comfort station/center capacity,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Health and Medical,Fatality Management,Mortuary affairs services,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Health and Medical,Medical Care,Elective medical care,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Health and Medical,Medical Supply Chain,Medical equipment,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Health and Medical,Patient Movement,Medical surge capacity,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Health and Medical,Public Health,Disease surveillance,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Water Systems,Potable Water Infrastructure,Water distribution systems,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Water Systems,Wastewater Managment,Wastewater storage,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Energy,Fuel,Critical facility generator fuel supply,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Energy,Power Grid,Power restoration timeline,4
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Communications,911 and Dispatch,Emergency call processing and dispatch times,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Communications,"Alerts, Warnings, and Messages",Integrated public alert and warning system (IPAWS) functionality,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Communications,Finance,Electronic payment processing system functionality,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Communications,Infrastructure,Cellular/wireless network functionality,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Communications,Responder Communications,Tactical field communications capability,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Transportation,Aviation,Emergency air operations,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Transportation,Highway Roadway Motor Vehicle,County/local road systems,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Transportation,Maritime,Maritime port accessibility,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Transportation,Mass Transit,Specialized transportation service,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Transportation,Railway,Passenger rail services,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Hazardous Materials,Facilities,Oil incident from Non-Fixed Facility,1
+Drew Template 4_15_25,This is a template for testing,1,Testing Hazard,N/A,Hazardous Materials,"HAZMAT, Pollutants, Contaminants",Agricultural or Environmental Impacts,1
