@@ -1,0 +1,4 @@
+# .gitignore
+clss-main\clss-notebooks\templates\home\export
+.env
+config.json
