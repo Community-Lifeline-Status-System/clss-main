@@ -1,9 +1,8 @@
-# Community Lifeline Support System (CLSS)
-**Real Data. Real-Time Impact. Real Resilience.**
+# Community Lifeline Support System (CLSS): Integrations, Workflows, and Templates
 
 ---
 
-## 🌐 About CLSS
+## About CLSS
 
 The **Community Lifeline Support System (CLSS)**  operationalizes real data for real-time impact assessments, highlighting critical community impacts and enhancing your community's resilience. Supported by DHS S&T, the CLSS was built specifically to support existing EOC data and information gathering workflows. It helps agencies focus, assess, and make decisions on what matters: the right data at the right time through the common framework of Community Lifelines.
 
@@ -60,8 +59,6 @@ CLSS can be extended and integrated with:
 > **Developed by:** [G&H International](https://ghinternational.com/)  **In collaboration with:** [Central U.S. Earthquake Consortium (CUSEC)](https://cusec.org/)
 >
 > **DHS S&T Contract #:** 70RSAT22CB0000012
-
----
 
 
 ---
