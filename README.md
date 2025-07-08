@@ -8,8 +8,10 @@ The **Community Lifeline Support System (CLSS)**  operationalizes real data for 
 
 The CLSS has been built and validated through direct contribution from over 300 emergency management agencies nationwide, ensuring the system meets the needs of emergency managers from the State, Local, Tribal, and Territorial (SLTT) levels. Now, the time has come to embrace the future of data informed decision making.
 
+## Connect CLSS with Your Existing Tools and Workflows
+CLSS is built on ArcGIS, an open, extenisble platform, which makes it possible to connect CLSS data with other systems, including WebEOC, Microsoft Teams, Survey123, ArcGIS Dashboards.
 
-CLSS can be extended and integrated with:
+*Key examples:*
 
 - **Incident Management Systems**  
   Integrate with platforms like WebEOC to synchronize lifeline status and assessment data.  
