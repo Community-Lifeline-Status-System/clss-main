@@ -20,6 +20,10 @@ This folder contains notebooks for exporting and importing CLSS templates.
     3. Export data.
     4. Save exported data.
 
+   🎥 [Watch: CLSS Template Import Notebook – Video Overview](https://vimeo.com/1103549991?share=copy)
+
+       
+
 - **`clss-template-import-notebook.ipynb`**: 
   - **Description**: Imports the CLSS templates and related data into the selected feature service.
   - **Prerequisites**:
