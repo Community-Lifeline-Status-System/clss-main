@@ -36,17 +36,15 @@ This folder contains notebooks for exporting and importing CLSS templates.
     3. Export data.
     4. Save exported data.
 
-- **`clss_template-import.ipynb`**: 
+- **`clss-template-import-notebook.ipynb`**: 
   - **Description**: Imports the CLSS templates and related data into the selected feature service.
   - **Prerequisites**:
-    - Use the 'template-export' notebook to export the CLSS templates and save them to the `/home/export` folder.
-    - Ensure a `config.json` file is present in the `/home` directory with ArcGIS Online credentials.
-  - **Steps**:
+    - Use the 'export template' process in the CLSS to export the CLSS templates.
+
+    - **Steps**:
     1. Load and validate files.
-    2. Authenticate with ArcGIS Online.
-    3. Select the target feature service.
-    4. Import data.
-    5. Save imported data.
+    2. Select the target feature service.
+    3. Import data.
 
 ### 3. `weboc-integration`
 
