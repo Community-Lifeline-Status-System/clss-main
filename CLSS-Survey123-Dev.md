@@ -1,6 +1,6 @@
-**CLSS -- Survey123 Demo**
+# Concept Paper: Leveraging Survey123 for CLSS
 
-Background
+## Background
 
 The Community Lifeline Status System (CLSS) enables emergency managers
 to report and monitor the status of critical community services---known
@@ -16,13 +16,13 @@ Grey (unknown). Finally, users can share these assessments in real time
 and generate reports to support coordinated emergency response and
 situational awareness.
 
-Problem
+## Problem
 
 Some organizations may want to enable users who either do not want to
 sign into the CLSS, or do not have ArcGIS Online organization account to
 contribute input on indicator statuses.
 
-Solution: "Side Reporting" via Survey123
+## Solution: "Side Reporting" via Survey123
 
 To address this, we offer an approach for "side reporting", i.e.,
 enabling a Survey123-based process to gather standardized impact
@@ -31,9 +31,7 @@ stakeholders without an ArcGIS login to contribute information linked
 to:
 
 - Specific incidents
-
 - Community impact assessments
-
 - Lifelines, components, and indicators
 
 Survey123 is a widely adopted tool based on the ArcGIS platform that
@@ -43,16 +41,14 @@ We developed a method to dynamically generate Survey123 forms via an
 ArcGIS Notebook. This solution allows external users to submit indicator
 status updates, while preserving alignment with the CLSS data model.
 
-![](./images/media/image1.png){width="6.496260936132983in"
+![](./media/s123-architecture.png){width="6.496260936132983in"
 height="3.40409230096238in"}
 
 This approach includes:
 
 - A simplified base data model for assessments that aligns with
   indicator framework established in CLSS.
-
 - Automated form creation via Python and the ArcGIS API
-
 - Seamless data integration with CLSS through Assessment ID.
 
 ## Technical Approach
