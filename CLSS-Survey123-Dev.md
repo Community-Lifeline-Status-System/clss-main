@@ -56,33 +56,22 @@ This approach includes:
 ### Data Model
 
 **Parent Table: Assessment**
+| Field           | Description                             |
+| --------------- | --------------------------------------- |
+| `globalid`      | Unique identifier for the parent record |
+| `assessment_id` | Links to CLSS Assessment ID             |
 
-  -----------------------------------------------------------------------
-  Field                          Description
-  ------------------------------ ----------------------------------------
-  globalid                       Unique identifier for the parent record
-
-  assessment_id                  Links to CLSS Assessment ID
-  -----------------------------------------------------------------------
 
 **Related Table: indicatorStatus**
+| Field            | Description                                                       |
+| ---------------- | ----------------------------------------------------------------- |
+| `globalid`       | Unique identifier for the indicator status record                 |
+| `lifeline_name`  | Name of the lifeline (e.g., Communications, Energy)               |
+| `component_name` | Specific lifeline component                                       |
+| `indicator_name` | Name of the indicator being evaluated                             |
+| `impact_status`  | Status of the indicator (Significant, Moderate, Minimal, Unknown) |
+| `details`        | Additional context                                                |
 
-  -----------------------------------------------------------------------
-  Field               Description
-  ------------------- ---------------------------------------------------
-  globalid            Unique identifier for the indicator status record
-
-  lifeline_name       Name of the lifeline (e.g., Communications, Energy)
-
-  component_name      Specific lifeline component
-
-  indicator_name      Name of the indicator being evaluated
-
-  impact_status       Status of the indicator (Significant, Moderate,
-                      Minimal, Unknown)
-
-  details             Additional context
-  -----------------------------------------------------------------------
 
 ### ArcGIS Notebook:
 
@@ -90,10 +79,7 @@ We used an ArcGIS Notebook to automate the Survey123 creation process.
 The main features of the notebook include:
 
 - Connect to your ArcGIS Online organization
-
 - Retrieve relevant lifeline templates and indicators
-
 - Generate and publish Survey123 forms on-demand
-
 - Write responses back into the structured data model for integration
   with CLSS
