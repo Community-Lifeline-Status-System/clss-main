@@ -41,8 +41,7 @@ We developed a method to dynamically generate Survey123 forms via an
 ArcGIS Notebook. This solution allows external users to submit indicator
 status updates, while preserving alignment with the CLSS data model.
 
-![](./media/s123-architecture.png){width="6.496260936132983in"
-height="3.40409230096238in"}
+![](./media/s123-architecture.png)
 
 This approach includes:
 
