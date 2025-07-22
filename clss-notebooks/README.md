@@ -5,23 +5,7 @@ This repository contains a collection of Jupyter notebooks for various use cases
 
 ## Subfolders and Notebooks
 
-### 1. `baseline-indicators`
-
-This folder contains notebooks for updating baseline indicators in the CLSS feature services.
-
-- **`baseline_indicators.ipynb`**: 
-  - **Description**: Updates the CLSS Baseline Indicators in the Dev, Test, and Demo feature services using data from the `CLSS Baseline Indicators Table.xlsx` file. Also updates the `SystemTemplate.json` file in the GitHub repository.
-  - **Prerequisites**:
-    - Upload the `CLSS Baseline Indicators Table.xlsx` file to the `/home` directory.
-    - Generate a GitHub Personal Access Token with the necessary permissions and update the token in the notebook.
-  - **Steps**:
-    1. Load and validate files.
-    2. Authenticate with ArcGIS Online.
-    3. Select the target feature service.
-    4. Update the feature service.
-    5. Update the GitHub repository.
-
-### 2. `templates`
+### 1. `templates`
 
 This folder contains notebooks for exporting and importing CLSS templates.
 
@@ -46,7 +30,7 @@ This folder contains notebooks for exporting and importing CLSS templates.
     2. Select the target feature service.
     3. Import data.
 
-### 3. `weboc-integration`
+### 2. `weboc-integration`
 
 This folder contains notebooks and scripts for integrating WebOC with CLSS.
 
